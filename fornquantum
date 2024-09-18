@@ -1,3 +1,5 @@
+//Python
+
 def FornQ ():
     global str0
     str0=input('would you like to see the value of a ket or quantum gate, matrix multiply 2 quantum gates, tensor product 2 quantum gates, or open the dictionary?\n')
